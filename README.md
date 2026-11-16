@@ -17,10 +17,10 @@
 <a href="https://github.com/kopch02/bongocat-skins/releases/latest/download/bongocat-skin-calico_minecraft.zip"><b>⬇ Скачать</b></a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/kopch02/bongocat-skins/releases/latest/download/bongocat-skin-peach_cozy.zip"><img src="previews/peach_cozy.png" alt="Милый котик"></a><br>
+<a href="https://github.com/kopch02/bongocat-skins/releases/latest/download/bongocat-skin-peach_cozy_v2.zip"><img src="previews/peach_cozy_v2.png" alt="Милый котик"></a><br>
 <b>🌸 Милый котик</b><br>
-венок из цветов, бантик, круглые очки, румянец, латте и цветок на столе<br>
-<a href="https://github.com/kopch02/bongocat-skins/releases/latest/download/bongocat-skin-peach_cozy.zip"><b>⬇ Скачать</b></a>
+венок, беретик, бантик, цыплёнок на голове, круглые очки, вязаный шарфик<br>
+<a href="https://github.com/kopch02/bongocat-skins/releases/latest/download/bongocat-skin-peach_cozy_v2.zip"><b>⬇ Скачать</b></a>
 </td>
 </tr>
 <tr>
